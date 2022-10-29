@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Zebbylion - [Github](https://github.com/zebbyG)
+Mark mutuota - [Github](https://github.com/tenmark86)
   
-Nevillionaire - [Github](https://github.com/nevillionaire)  
+Michael Adewole - [Github](https://github.com/michaseyi)  
 ## License
 Public Domain. No copyright protection. 
