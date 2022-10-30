@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Mark mutuota - [Github](https://github.com/tenmark86)
+Ray Nyamu - [Github](https://github.com/briankod)
   
-Michael Adewole - [Github](https://github.com/michaseyi)  
+Bemnet Abegaz - [Github](https://github.com/m)  
 ## License
 Public Domain. No copyright protection. 
